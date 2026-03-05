@@ -1,0 +1,7 @@
+terraform-provider-ac12dev
+test/terraform.tfstate
+test/terraform.tfstate.backup
+test/.terraformrc
+test/.terraform/
+test/.terraform.lock.hcl
+dist/
